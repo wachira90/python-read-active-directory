@@ -6,6 +6,10 @@ import uuid
 import sys
 import ad_common_tools
 
+'''
+>>> ldap3.__version__
+'2.6.1'
+'''
 
 # Load AD Config
 ad_config = ad_common_tools.AD_Config_Cst()
